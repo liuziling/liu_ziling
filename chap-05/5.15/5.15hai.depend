@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1543067303 source:f:\±à³Ì\chap-05\5.15hai\main.cpp
+	"GradeBook.h"
+	<stdio.h>
+
+1543067426 f:\±à³Ì\chap-05\5.15hai\include\gradebook.h
+	<string>
+	<stdio.h>
+

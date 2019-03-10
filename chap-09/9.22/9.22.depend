@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1544531282 source:f:\±à³Ì\chap-09\9.22\main.cpp
+	<iostream>
+	<stdexcept>
+	"Time.h"
+
+1544531282 f:\±à³Ì\chap-09\9.22\include\time.h
+
