@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1554283771 source:c:\users\administrator\desktop\11.9\main.cpp
+	<iostream>
+	"Package.h"
+	<iomanip>
+
+1554283972 c:\users\administrator\desktop\11.9\include\package.h
+	<string>
+	<iostream>
+
+1554283772 source:f:\±à³Ì\11.9\main.cpp
+	<iostream>
+	"Package.h"
+	<iomanip>
+
+1554617600 f:\±à³Ì\11.9\include\package.h
+	<string>
+	<iostream>
+
