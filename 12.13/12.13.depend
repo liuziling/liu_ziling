@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1555835690 source:f:\编程\12.13\src\overnightpackage.cpp
+	"overnightpackage.h"
+
+1555835690 f:\编程\12.13\include\overnightpackage.h
+
+1555836209 source:f:\编程\12.13\src\package.cpp
+	"package.h"
+
+1555836209 f:\编程\12.13\include\package.h
+	<string>
+
+1555836209 source:f:\编程\12.13\src\twodaypackage.cpp
+	"twodaypackage.h"
+
+1555836209 f:\编程\12.13\include\twodaypackage.h
+	"Package.h"
+

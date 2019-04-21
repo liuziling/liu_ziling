@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1555836734 source:f:\编程\12.14\src\account.cpp
+	<iostream>
+	"account.h"
+
+1555836734 f:\编程\12.14\include\account.h
+
+1555836735 source:f:\编程\12.14\src\cheakingaccount.cpp
+	"cheakingaccount.h"
+	<iostream>
+
+1555836734 f:\编程\12.14\include\cheakingaccount.h
+	"account.h"
+
+1555836734 source:f:\编程\12.14\src\savingsaccount.cpp
+	"savingsaccount.h"
+
+1555836734 f:\编程\12.14\include\savingsaccount.h
+	"account.h"
+
+1555836779 source:f:\编程\12.14\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	"account.h"
+	"savingsaccount.h"
+	"cheakingaccount.h"
+
