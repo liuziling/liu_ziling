@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1556097657 source:c:\users\01\desktop\11.9\main.cpp
+	<iostream>
+	"Package.h"
+	"twodaypackage.h"
+	"overnightpackage.h"
+	<iomanip>
+
+1556098683 c:\users\01\desktop\11.9\include\package.h
+	<string>
+	<iostream>
+
+1556098683 c:\users\01\desktop\11.9\include\twodaypackage.h
+	<string>
+	"Package.h"
+
+1556098683 c:\users\01\desktop\11.9\include\overnightpackage.h
+	<string>
+	"Package.h"
+
+1556096233 source:c:\users\01\desktop\11.9\src\overnightpackage.cpp
+	"overnightpackage.h"
+	"package.h"
+	<iostream>
+	<string>
+
+1556096602 source:c:\users\01\desktop\11.9\src\package.cpp
+	"Package.h"
+	<iostream>
+	<string>
+
+1556097318 source:c:\users\01\desktop\11.9\src\twodaypackage.cpp
+	"twodaypackage.h"
+	"package.h"
+	<iostream>
+	<string>
+
